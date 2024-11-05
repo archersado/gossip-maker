@@ -14,7 +14,7 @@ template = """
   3. 话题应当具备一定的传播性
   4. 话题如果具备趣味性、猎奇性可以优先考虑
   5. 要贴近百姓日常生活
-  6. 以标准 JSON List 格式返回，每个话题项中，话题名称放在 topic 属性中，理由放在 reason 属性中, 
+  6. 以标准 JSON List 格式返回，每个话题项中，话题名称放在 topic 属性中，理由放在 reason 属性中, 直接返回 JSON 不要用 markdown 包裹
   </Instructions>
 
   <Input>ji
