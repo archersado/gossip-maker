@@ -31,7 +31,11 @@ class DyTagsTemplate(PromptTemplate):
 
 class DyTagsOutputParser(BaseOutputParser):
   def parse(self, text: str):
+<<<<<<< HEAD
     return text.split(",")
+=======
+    return text.split("，")
+>>>>>>> main
 
   @property
   def _type(self) -> str:
