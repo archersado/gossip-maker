@@ -5,7 +5,7 @@
 clone and start MoneyPrinterTurbo from [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 
 
-start MoneyPrinterTurbo serve
+start MoneyPrinterTurbo service
 ```
 python main.py
 ```
